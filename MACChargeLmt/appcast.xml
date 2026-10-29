@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChargeLmt</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 29 Oct 2026 21:23:49 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://nvksie.github.io/MACChargeLmt/ChargeLmt-0.1.0-8-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/nvksie/MACChargeLmt/releases/download/v0.1.0/ChargeLmt-0.1.0-8-universal.zip" length="1315183" type="application/octet-stream" sparkle:edSignature="S7v0XJg4+Y0fs7UNsHVQKJbntsawSV47HSVG4zK9k9pT/J3iFRMe2YRV+YSGLGlBkspumMs/8q1ZXVVMfNZbAA=="/>
+        </item>
+    </channel>
+</rss>
